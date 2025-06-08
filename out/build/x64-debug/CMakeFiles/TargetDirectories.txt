@@ -1,0 +1,5 @@
+F:/omake/out/build/x64-debug/CMakeFiles/edit_cache.dir
+F:/omake/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+F:/omake/out/build/x64-debug/omake/CMakeFiles/omake.dir
+F:/omake/out/build/x64-debug/omake/CMakeFiles/edit_cache.dir
+F:/omake/out/build/x64-debug/omake/CMakeFiles/rebuild_cache.dir

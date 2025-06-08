@@ -1,0 +1,10 @@
+# ninja log v6
+453	2184	7710495758550161	omake/CMakeFiles/omake.dir/scr/stats.cpp.obj	6a4d5bd453a8f08f
+5	2324	7710495754066178	omake/CMakeFiles/omake.dir/scr/omake.cpp.obj	b9262ba02b32b1
+258	2393	7710495756586677	omake/CMakeFiles/omake.dir/scr/builder.cpp.obj	4ecd0953e253fe23
+128	2525	7710495755294376	omake/CMakeFiles/omake.dir/scr/parser.cpp.obj	eeeabb190a69b321
+374	2031	7710498305973713	omake/CMakeFiles/omake.dir/scr/stats.cpp.obj	c565c16a302417c2
+6	2078	7710498302290464	omake/CMakeFiles/omake.dir/scr/omake.cpp.obj	934e28a30ed1b3e5
+266	2261	7710498304899064	omake/CMakeFiles/omake.dir/scr/builder.cpp.obj	bc03dc1c188ff3e1
+152	2417	7710498303750451	omake/CMakeFiles/omake.dir/scr/parser.cpp.obj	49d513c79542891b
+2417	3946	7710498326413017	omake/omake.exe	837a979a52cd5afc
